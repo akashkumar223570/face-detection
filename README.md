@@ -5,7 +5,7 @@ This Python project uses OpenCV and the Haar Cascade Classifier to detect faces 
 It draws rectangles around detected faces and updates the display live.
 
 ## 📸 Screenshot
-![Face Detection Preview](face detection.png)
+![App Screenshot](face.png)
 
 📌 Features
 
